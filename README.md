@@ -35,16 +35,5 @@ This project implements a Raspberry Pi-based fingerprint recognition system with
 - Designed a compact and portable device suitable for various applications.
 - Achieved an 80% accuracy rate in detecting fake fingerprints when tested against proposed molds.
 
-## Contributions
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For questions or feedback, feel free to reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/yourprofile)
-
 ## Acknowledgments
 Special thanks to Professor Tushar Sandhan for mentorship and guidance during this project.
