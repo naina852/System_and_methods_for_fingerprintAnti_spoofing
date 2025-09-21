@@ -31,7 +31,7 @@ This project implements a Raspberry Pi-based fingerprint recognition system with
 - Integrated Adafruit ST7735 TFT display for real-time feedback, enhancing user interaction.
 - Efficiently interfaced GPIO/SPI for TFT display integration on Raspberry Pi.
 
-## Results (Optional)
+## Results 
 - Designed a compact and portable device suitable for various applications.
 - Achieved an 80% accuracy rate in detecting fake fingerprints when tested against proposed molds.
 
